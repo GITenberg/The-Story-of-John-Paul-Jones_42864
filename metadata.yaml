@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8956'
     url: http://www.gutenberg.org/2009/agents/8956
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42864#The-Story-of-John-Paul-Jones
 gutenberg_issued: '2013-06-03'
 gutenberg_type: Text
 identifiers:
