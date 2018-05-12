@@ -1,0 +1,27 @@
+_repo: The-Story-of-John-Paul-Jones_42864
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42864-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fraser, Chelsea Curtis
+    birthdate: 1876
+    gutenberg_agent_id: '8956'
+    url: http://www.gutenberg.org/2009/agents/8956
+description: ''
+gutenberg_issued: '2013-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42864'
+  lccn: '22016373'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Americans for young readers.
+subjects:
+- !lcc 'E201'
+- !lcsh 'Jones, John Paul, 1747-1792'
+title: The Story of John Paul Jones
+url: http://www.gutenberg.org/ebooks/42864
