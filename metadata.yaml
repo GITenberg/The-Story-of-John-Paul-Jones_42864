@@ -25,5 +25,6 @@ series_note: Famous Americans for young readers.
 subjects:
 - !lcc 'E201'
 - !lcsh 'Jones, John Paul, 1747-1792'
+- GITenberg
 title: The Story of John Paul Jones
 url: http://www.gutenberg.org/ebooks/42864
